@@ -1,0 +1,18 @@
+# Data
+data/drugsComTrain_raw.csv
+data/drugsComTest_raw.csv
+data/drug_reviews_for_powerbi_final.csv
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
